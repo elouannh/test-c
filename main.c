@@ -1,5 +1,6 @@
 #include<stdio.h>
 
+// Petit commentaire trop kiki
 int addition(int a, int b) {
     int c = a + b;
     return c;
